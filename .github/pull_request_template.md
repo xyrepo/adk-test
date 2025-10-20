@@ -1,12 +1,3 @@
----
-name: Pull Request
-about: Propose a change to the ADK project
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **Please ensure you have read the [contribution guide](https://github.com/google/adk-python/blob/main/CONTRIBUTING.md) before creating a pull request.**
 
 ### Link to Issue or Description of Change
